@@ -1,0 +1,5 @@
+Bundle-SymbolicName: org.jpm4j.example.hello
+Bundle-Version: 1.0
+Main-Class: Hello
+JPM-Command: hello
+
